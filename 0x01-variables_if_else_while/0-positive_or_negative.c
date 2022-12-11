@@ -1,11 +1,11 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/* more headers goes there */
 
-/* betty style doc for function main goes there */
 /**
- * main - prints if the number is positive, negative, or zero.
+ * main - Prints a random number and states whether
+ *        it is positive, negative, or zero.
+ *
  * Description: This program will assign a random number.
  *
  * Reurn: Always 0 (Success)
