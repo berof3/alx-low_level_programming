@@ -3,7 +3,8 @@
 #include <stdio.h>
 /* more headers goes there */
 /**
- * main - Entry
+ * main - Prints a random number and states whether
+ * 	  it is positive, negative, or zero.
  *
  * Description: This program will assign a random number.
  *
