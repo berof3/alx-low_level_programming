@@ -5,7 +5,7 @@
 /**
  * main - Entry
  *
- * Description: This program will assign a random number to the variable n each time.
+ * Description: This program will assign a random number.
  *
  * Reurn: Always 0 (Success)
  */
